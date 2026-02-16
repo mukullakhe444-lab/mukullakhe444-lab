@@ -3,7 +3,8 @@ Data-Driven Strategy  <br><br>📈 Currently expanding expertise in AI-powered a
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mukul20p) [![LinkedIn]www.linkedin.com/in/
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mukul20p)
+[![LinkedIn]www.linkedin.com/in/
 mukullakhe
 Vanity URL name
 (https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mukullakhe444@gmail.com ) 
